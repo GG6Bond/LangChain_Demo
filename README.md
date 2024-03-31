@@ -1,8 +1,10 @@
 https://python.langchain.com/docs/get_started/quickstart
 
-来自LangChain官网的demo
+来自LangChain官网的快速入门
 
-采用ollama而不是远程调用API
+
+
+其中，本项目的LLM采用ollama，而不是远程调用openAI的API
 
 
 
@@ -20,10 +22,10 @@ https://python.langchain.com/docs/get_started/quickstart
 
 ### 前置准备
 
-* Jupyter Notebook：这里不再过多介绍
-* Installation：pip install langchain
+* Jupyter Notebook
+* Installation：`pip install langchain`
 
-
+* LangSmith（not needed）
 
 
 
