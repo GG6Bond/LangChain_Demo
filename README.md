@@ -26,6 +26,9 @@ https://python.langchain.com/docs/get_started/quickstart
 * Installation：`pip install langchain`
 
 * LangSmith（not needed）
+* ollama：https://ollama.com/
+
+
 
 
 
